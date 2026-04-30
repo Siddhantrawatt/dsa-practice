@@ -7,7 +7,8 @@ This repository contains my daily DSA practice.
 ## Topics
 
 * Arrays
-
+* Strings
+* Stack
 (More topics will be added)
 
 ---
